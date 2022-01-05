@@ -11,3 +11,5 @@ Ohjelma käynnistetään ajamalla game.py tiedosto.
 Liikuta palloa sivuille nuolinäppäimillä, painamalla nuoli ylöspäin voi hypätä.
 ctrl + q = sulje peli
 ctrl + r = aloita taso alusta
+
+![Platformer](https://user-images.githubusercontent.com/85954016/148238490-84523398-2d10-4079-a0b7-e9b36d1547dd.png)
